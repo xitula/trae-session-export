@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+brute
+decrypted.db
+decrypted.db-wal
+decrypted.db-shm
